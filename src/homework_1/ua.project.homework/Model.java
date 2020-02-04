@@ -1,23 +1,23 @@
 package homework_1.ua.project.homework;
 
 public class Model {
-    private String Java;
-    private String Hello;
+    private String java;
+    private String hello;
 
 
     public String getJava() {
-        return Java;
+        return java;
     }
 
     public void setJava(String java) {
-        Java = java;
+        this.java = java;
     }
 
     public String getHello() {
-        return Hello;
+        return hello;
     }
 
     public void setHello(String hello) {
-        Hello = hello;
+        this.hello = hello;
     }
 }
