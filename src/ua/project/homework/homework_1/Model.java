@@ -1,4 +1,4 @@
-package homework_1.ua.project.homework;
+package ua.project.homework.homework_1;
 
 public class Model {
     private String java;
