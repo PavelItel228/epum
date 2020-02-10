@@ -1,5 +1,3 @@
-package ua.project.homework.homework_2.test;
-
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
